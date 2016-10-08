@@ -1,0 +1,67 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,300,800);
+body {
+	font-family: 'Open Sans', sans-serif;
+}
+.navbar-default .navbar-brand {
+	color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+	color: #fff;
+}
+
+.navbar-default .navbar-brand:hover {
+	color: #2dc534;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+	color: #2dc534;
+	text-decoration: none;
+}
+
+.navbar {
+	border-radius: 0px;
+	margin-bottom: 0px;
+	color: #fff;
+	background: #2e2e2e;
+	border-color: #2e2e2e;
+}
+
+#bottom {
+	border-bottom: 4px solid #2dc534;
+}
+
+#footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	color: #fff;
+	background: #2e2e2e;
+}
+
+#footer ul > li {
+	display: inline-block;
+	margin-left: 45px;
+}
+
+#footer a {
+	color: #fff;
+}
+
+#footer a:hover {
+	color: #2dc534;
+	text-decoration: none;
+}
+
+.adorno {
+	display: inline-block;
+	padding: 3px 10px;
+	margin: 0 0 4px 0;
+	color: #fff;
+	font-weight: 600;
+	background-color: rgb(200, 70, 70);
+	background-color: #2e2e2e;
+	font-size: 23px;
+}
+
+p:hover {
+	color: #2dc534;
+}
